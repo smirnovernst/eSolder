@@ -5,3 +5,7 @@
 	path = PCB/pcb_eSolderControl
 	url = https://github.com/smirnovernst/pcb_eSolderControl
 	branch = develop
+[submodule "Fwm/fwm_eSolder"]
+	path = Fwm/fwm_eSolder
+	url = https://github.com/smirnovernst/fwm_eSolder.git
+	branch = develop
