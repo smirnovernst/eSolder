@@ -1,0 +1,3 @@
+[submodule "PCB/pcb_eSolderPower"]
+	path = PCB/pcb_eSolderPower
+	url = https://github.com/smirnovernst/pcb_eSolderPower
