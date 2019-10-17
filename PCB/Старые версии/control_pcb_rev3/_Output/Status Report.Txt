@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [eSolderControl_v3.PrjPcb]
+   Generated File[eSolderControl_v3.GTL]
+   Generated File[eSolderControl_v3.GBL]
+   Generated File[eSolderControl_v3.GKO]
+   Generated File[eSolderControl_v3.GM1]
+   Generated File[eSolderControl_v3.RUL]
+   Generated File[eSolderControl_v3.EXTREP]
+   Generated File[eSolderControl_v3.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 10:48:53 On 22.10.2017

@@ -1,0 +1,81 @@
+*************************************************************
+FileName = eSolderControl_v3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : eSolderControl_v3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : eSolderControl_v3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : eSolderControl_v3.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : eSolderControl_v3.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D35
+    D36
+*************************************************************
+
