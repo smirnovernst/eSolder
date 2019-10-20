@@ -1,0 +1,8 @@
+IM[3] - hardware connected to 1. 
+
+IM3-2-1-0
+1 0 0 1 8080 MCU 8-bit bus interface ? D[17:10] D[17:10],WRX,RDX,CSX,D/CX
+1 0 1 0 8080 MCU 18-bit bus interface ? D[8:1] D[17:0],WRX,RDX,CSX,D/CX
+1 0 1 1 8080 MCU 9-bit bus interface ? D[17:10] D[17:9],WRX,RDX,CSX,D/CX
+1 1 0 1 3-wire 9-bit data serial interface ? SCL,SDI,SDO, CSX
+1 1 1 0 4-wire 8-bit data serial interface ? SCL,SDI,D/CX,SDO, CSX 
