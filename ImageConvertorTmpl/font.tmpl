@@ -44,6 +44,7 @@ $(start_block_header)
 */
 
 #include <stdint.h>
+#include "Fonts.h"
 $(end_block_header)
 
 $(start_block_images_table)
@@ -53,7 +54,7 @@ static const uint$(img_data_block_size)_t image_data_$(doc_name_ws)_0x$(out_char
     $(out_image_data)
 };
 static const tImage $(doc_name_ws)_0x$(out_char_code) = { image_data_$(doc_name_ws)_0x$(out_char_code),
-    $(out_image_width), $(out_image_height), $(img_data_block_size)};
+    $(out_image_width), $(out_image_height)};
 #endif
 $(end_block_images_table)
 
